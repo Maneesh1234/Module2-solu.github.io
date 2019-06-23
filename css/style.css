@@ -1,0 +1,62 @@
+.navbar-brand h1{
+	font-family: 'Oxygen', serif;
+	color: solid black;
+	font-size: 1.8em;
+	
+	font-weight: bold;
+	text-shadow:  1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;/**/
+	text-align: left;
+
+
+
+}
+body{
+	font-size: 16px;
+	
+	
+	font-family: 'Oxygen', sans-serif;
+}
+#header-nav{
+	background-color: #D3D3D3;
+	border-radius: 0;
+	border: 0;
+	border: 2px solid black;
+}
+#nav-list li{
+	text-align:  center;
+	background-color: #fff;
+	border: 1px solid black;
+}
+#main-content h1{
+	text-align: center;
+	font-size: 2em;
+	font-family: 'Oxygen', serif;
+	margin-top: 0px;
+
+}
+#main-content h2{
+	text-align: center;
+	font-family: 'Oxygen', serif;
+	font-size: 1.8em;
+	font-family: 'Oxygen', serif;
+	margin-top: 0px;
+
+
+}
+#menu-tile ,#special-tile, #map-tile{
+	
+	width: 100%;
+	margin: 15px;
+	position: relative;
+	
+	overflow: hidden;
+	background-color: #D3D3D3;
+	
+	font-family: 'Oxygen', serif;
+	padding: 15px;
+
+
+}
